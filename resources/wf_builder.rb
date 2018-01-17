@@ -44,6 +44,13 @@ load_current_value do
 end
 
 action :create do
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
+  puts "SAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaaSAAAaaa"
   chef_ingredient 'chefdk' do
     action :upgrade
     channel new_resource.channel
